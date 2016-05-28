@@ -1,0 +1,1 @@
+# tn-static-test
